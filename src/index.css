@@ -1,0 +1,10 @@
+/* index.css - System-wide reset to prevent style bleeding */
+html, 
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #090a0f; /* Matches your App.css background */
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
